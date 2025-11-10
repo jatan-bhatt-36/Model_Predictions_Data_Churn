@@ -1,4 +1,4 @@
-# Comprehensive_Project
+# Comprehensive Project - Data Churn & Model Predictions
 
 ## Project Description:
 The telecom operator Interconnect would like to be able to forecast their churn of clients. If it's discovered that a user is planning to leave, they will be offered promotional codes and special plan options. 
@@ -22,6 +22,13 @@ The clients can choose either a monthly payment or sign a 1- or 2-year contract.
 3. Prepare a report. Send the report to your team leader so that they can make sure you've completed the tasks correctly.
 
 ## Key Concepts:
+🗝️ Data cleaning, preprocessing, merging and standardization
 
+🗝️ Data Visualization using plots, heatmaps and correlations matrices
+
+🗝️ Model Building, Feature Engineering and Feature Scaling
+
+🗝️ Prediction Analysis using ROC-AUC metric
 
 ## What I Learned:
+✔️ 
